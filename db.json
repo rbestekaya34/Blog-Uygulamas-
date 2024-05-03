@@ -1,0 +1,24 @@
+{
+  "blogposts": [
+    {
+      "title": "React Js",
+      "content": "Redux",
+      "id": 2
+    },
+    {
+      "title": "Javascript",
+      "content": "Asyncc",
+      "id": 3
+    },
+    {
+      "title": "Vue Js",
+      "content": "asdasd",
+      "id": 4
+    },
+    {
+      "title": "Python",
+      "content": "python djangoo",
+      "id": 7
+    }
+  ]
+}
